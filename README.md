@@ -73,11 +73,6 @@ Models were evaluated using:
 
 ---
 
-## ⭐ Feature Importance
-
-Random Forest was used to identify the most important features influencing customer churn.
-
----
 
 ## 📈 Results
 
