@@ -85,11 +85,7 @@ Models were evaluated using:
 
 ---
 
-## 🚀 Future Improvements
-
-- Hyperparameter tuning using GridSearchCV  
-- Handling class imbalance using SMOTE  
-- Model explainability using SHAP  
+## 🚀 Future Improvements 
 - Deployment using Streamlit  
 - Integration with cloud platforms (AWS/GCP)  
 
